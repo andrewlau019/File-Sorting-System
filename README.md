@@ -1,13 +1,8 @@
 # BlessedMaster
 
-not a cult, as far as you know.
-
-not a cult, as far as you know 
-
-new line(commit test)
-
 Betty 
 
--- this is alan changing my local repo
+not a cult, as far as you know.
 
+-- this is alan changing my local repo
 
