@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 
 public class MainWindow extends JFrame{
 	
-	public static final String APP_VERSION = "v0.1";
+	// public static final String APP_VERSION = "v0.1"; <-unused
 	
 	private String user = "unregistered";
 	
