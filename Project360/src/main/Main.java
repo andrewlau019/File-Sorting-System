@@ -1,5 +1,12 @@
 package main;
 
+/**
+ * 
+ * Initializes the program and generates the main window.
+ * 
+ * @author Alan T, Christopher H, Name, Name, Name
+ *
+ */
 public class Main {
 	
 	public static final String VERSION = "v0.1";
