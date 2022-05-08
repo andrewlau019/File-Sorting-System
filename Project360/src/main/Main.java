@@ -4,7 +4,12 @@ package main;
  * 
  * Initializes the program and generates the main window.
  * 
- * @author Alan T, Christopher H, Name, Name, Name
+ * @authors
+ * Alan T
+ * Christopher H
+ * Name
+ * Name
+ * Name
  *
  */
 public class Main {
