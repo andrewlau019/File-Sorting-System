@@ -21,7 +21,7 @@ public class Main {
 	
 	public static final String[] aboutDevs = {
 		"  Alan Thompson",	// Alan's line
-		"  ",	// Chris's line
+		"  Christopher Henderson",	// Chris's line
 		"  ",	// Betty's line
 		"  ",	// Anythony's line
 		"  " 	// Andrew's line	
