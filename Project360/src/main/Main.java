@@ -2,31 +2,42 @@ package main;
 
 /**
  * 
- * Initializes the program and generates the main window.
+ * @author Alan Thompson
  * 
- * @authors
- * Alan T
- * Christopher H
- * Name
- * Name
- * Name
+ * Main.java
+ * 
+ * The entry point for the TCSS360b TeamONE FileSorter application.
  *
  */
+
 public class Main {
 	
+	/**
+	 * Application constant variables
+	 */
 	public static final String VERSION = "v0.1";
+	public static final int DEFAULT_WIDTH = 800;
+	public static final int DEFAULT_HEIGHT = 600;
 	
-	private static String user = "unregistered";
+	public static final String[] aboutDevs = {
+		"  Alan Thompson",	// Alan's line
+		"  ",	// Chris's line
+		"  ",	// Betty's line
+		"  ",	// Anythony's line
+		"  " 	// Andrew's line	
+	};
 	
-	public static String getUser() {
-		return user;
-	}
 	
-	public static void setUser(String newUser) {
-		user = newUser;
-	}
+	public static Profile userProfile;
 	
+	/**
+	 * Application entry point.
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		new MainWindow(800, 600);
+		
+		userProfile = new Profile();
+		
+		new MainWindow(DEFAULT_WIDTH, DEFAULT_HEIGHT);
 	}
 }
