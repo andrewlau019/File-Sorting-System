@@ -22,7 +22,7 @@ public class Main {
 	public static final String[] aboutDevs = {
 		"  Alan Thompson",	// Alan's line
 		"  Christopher Henderson",	// Chris's line
-		"  Betelhem Bada",	// Betty's line
+		"  ",	// Betty's line
 		"  ",	// Anythony's line
 		"  " 	// Andrew's line	
 	};
