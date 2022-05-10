@@ -27,7 +27,6 @@ public class Main {
 		"  " 	// Andrew's line	
 	};
 
-
 	
 	public static Profile userProfile;
 	
