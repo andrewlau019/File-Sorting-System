@@ -23,10 +23,10 @@ public class Main {
 		"  Alan Thompson",	// Alan's line
 		"  Christopher Henderson",	// Chris's line
 		"  Betelhem Bada",	// Betty's line
-		"  ",	// Anythony's line
+		"  Anthony Cabrera-Lara",	// Anthony's line
 		"  " 	// Andrew's line	
 	};
-	
+
 	
 	public static Profile userProfile;
 	
